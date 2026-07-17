@@ -59,11 +59,12 @@
 ---
 
 ### 🏆 Certifications
--✅ Cisco Introduction to Cybersecurity (Aug 2025)
--✅ Cisco Junior Cybersecurity Analyst (Aug 2025)
--✅ Hackviser CORE — Cybersecurity Foundations (July 2026)
--🔄 Cisco Ethical Hacker (In Progress)
--🎯 eJPT — eLearnSecurity (Target)
+### 🏆 Certifications
+- ✅ Cisco Introduction to Cybersecurity (Aug 2025)
+- ✅ Cisco Junior Cybersecurity Analyst (Aug 2025)
+- ✅ Hackviser CORE — Cybersecurity Foundations (July 2026)
+- 🔄 Cisco Ethical Hacker (In Progress)
+- 🎯 eJPT — eLearnSecurity (Target)
 ---
 
 ### 📂 Featured Projects
