@@ -63,7 +63,7 @@
 - ✅ Cisco Introduction to Cybersecurity (Aug 2025)
 - ✅ Cisco Junior Cybersecurity Analyst (Aug 2025)
 - ✅ Hackviser CORE — Cybersecurity Foundations (July 2026)
-- 🔄 Cisco Ethical Hacker (In Progress)
+- ✅ Cisco Ethical Hacker (July 2026)
 - 🎯 eJPT — eLearnSecurity (Target)
 ---
 
