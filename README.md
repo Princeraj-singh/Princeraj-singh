@@ -50,8 +50,8 @@
 
 ---
 
-### 📚 Currently Learning
-- 🔴 Cisco Ethical Hacker Course
+### 📚 Currently Learning 
+
 - 🔴 TryHackMe Soc L1 Path
 - 🔴 Web Application Pentesting
 - 🔴 Pursuing Comptia Security + 
