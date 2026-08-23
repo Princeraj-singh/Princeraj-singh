@@ -52,9 +52,9 @@
 
 ### 📚 Currently Learning
 - 🔴 Cisco Ethical Hacker Course
-- 🔴 TryHackMe Jr Penetration Tester
+- 🔴 TryHackMe Soc L1 Path
 - 🔴 Web Application Pentesting
-- 🔴 Pursuing eJPT Certification
+- 🔴 Pursuing Comptia Security + 
 
 ---
 
@@ -64,7 +64,7 @@
 - ✅ Cisco Junior Cybersecurity Analyst (Aug 2025)
 - ✅ Hackviser CORE — Cybersecurity Foundations (July 2026)
 - ✅ Cisco Ethical Hacker (July 2026)
-- 🎯 eJPT — eLearnSecurity (Target)
+- 🎯 Oscp + (Target)
 ---
 
 ### 📂 Featured Projects
@@ -95,7 +95,7 @@
 ### 📫 Connect With Me
 - 💼 LinkedIn: [Princeraj Singh](https://linkedin.com/in/princeraj-singh-5a433241b)
 - 📧 Email: rathoreprinceraj436@gmail.com
-- 🎯 Open to: Penetration Testing Internships & Entry-Level Roles
+- 🎯 Open to: Soc Analyst, Security Analyst Internships & Full-Time Roles
 
 ---
 
